@@ -1,6 +1,6 @@
 import java.util.*;  
 
-public class Codechef {  
+public class Calculator {  
 
     // Function to display the calculator menu  
     public static String calculatorDisplay() {  
